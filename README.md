@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27,7aa2f7,bb9af7&height=220&section=header&text=Nicolas%20Pascual&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%26amp%3B%20Developer&descFontSize=18&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27,7aa2f7,bb9af7&height=220&section=header&text=Nicolás%20Pascual&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%26amp%3B%20Developer&descFontSize=18&descAlignY=62&descAlign=50" width="100%"/>
 
   <a href="https://github.com/nicodelallana">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&background=1A1B2700&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Developer;Full-Stack+Web+%26+Multiplatform+Architecture;Flutter%2C+Android%2C+React+%26+.NET+%2F+C%23;Architecting+scalable+backends+with+Spring+%26+Docker;Observability+with+Grafana+%26+Time-Series+Data;Distributed+databases+with+Cassandra%2C+Mongo+%26+PostgreSQL;Crafting+resilient%2C+clean+and+maintainable+systems" alt="Typing SVG" />
@@ -94,7 +94,7 @@
   <a href="mailto:nicolaspascualdelallana@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/nicodelallana">
+  <a href="www.linkedin.com/in/nicolás-pascual-340459359">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
