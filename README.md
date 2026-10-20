@@ -94,7 +94,7 @@
   <a href="mailto:nicolaspascualdelallana@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/nicolás-pascual-340459359">
+  <a href="https://www.linkedin.com/in/nicolás-pascual-340459359">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
