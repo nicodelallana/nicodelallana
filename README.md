@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27,7aa2f7,bb9af7&height=220&section=header&text=Nicolas%20Pascual&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full-Stack%20Developer&descFontSize=18&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27,7aa2f7,bb9af7&height=220&section=header&text=Nicolas%20Pascual&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%26amp%3B%20Developer&descFontSize=18&descAlignY=62&descAlign=50" width="100%"/>
 
   <a href="https://github.com/nicodelallana">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&background=1A1B2700&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Software+Engineer;Flutter%2C+Android%2C+React+%26+.NET+%2F+C%23;Architecting+scalable+backends+with+Spring+%26+Docker;Observability+with+Grafana+%26+Time-Series+Data;Distributed+databases+with+Cassandra%2C+Mongo+%26+PostgreSQL;Crafting+resilient%2C+clean+and+maintainable+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&background=1A1B2700&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Developer;Full-Stack+Web+%26+Multiplatform+Architecture;Flutter%2C+Android%2C+React+%26+.NET+%2F+C%23;Architecting+scalable+backends+with+Spring+%26+Docker;Observability+with+Grafana+%26+Time-Series+Data;Distributed+databases+with+Cassandra%2C+Mongo+%26+PostgreSQL;Crafting+resilient%2C+clean+and+maintainable+systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Full--Stack-7aa2f7?style=flat-square&logoColor=white&labelColor=1a1b26" alt="Focus" />
+    <img src="https://img.shields.io/badge/Role-Software%20Engineer%20%26%20Developer-7aa2f7?style=flat-square&logoColor=white&labelColor=1a1b26" alt="Role" />
     <img src="https://img.shields.io/badge/Architecture-Reactive%20%26%20Distributed-bb9af7?style=flat-square&logoColor=white&labelColor=1a1b26" alt="Architecture" />
     <img src="https://img.shields.io/badge/Stack-Flutter%20%7C%20Spring%20%7C%20React%20%7C%20C%23-7dcfff?style=flat-square&logoColor=white&labelColor=1a1b26" alt="Stack" />
     <img src="https://img.shields.io/badge/Observability-Grafana%20%26%20Docker-9ece6a?style=flat-square&logoColor=white&labelColor=1a1b26" alt="Observability" />
@@ -17,10 +17,10 @@
 
 ### About Me
 
-- Software engineer focused on building robust multiplatform clients, distributed microservices, and observable backend architectures.
-- Deep expertise ranging from reactive mobile applications to cloud services, containerized pipelines, and high-volume data storage.
-- Experienced with diverse storage engines including relational, document, wide-column (Cassandra), and time-series (InfluxDB) datastores.
-- Advocate for clean architecture principles, automated monitoring with Grafana, and solid developer ergonomics.
+- Software engineer & developer focused on building scalable systems, distributed microservices, and modern user-facing applications.
+- Experienced across the stack: from responsive web and multiplatform clients to high-throughput backends, containerized pipelines, and high-volume datastores.
+- Hands-on expertise with diverse storage paradigms including relational databases, document stores, wide-column systems (Cassandra), and time-series engines (InfluxDB).
+- Advocate for clean architecture principles, real-time observability with Grafana, and solid developer ergonomics.
 
 ---
 
@@ -33,10 +33,10 @@
   </a>
 </p>
 
-#### Frameworks & Mobile
+#### Frameworks & Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,spring&theme=dark" alt="Frameworks and Mobile" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,spring&theme=dark" alt="Frameworks and Libraries" />
   </a>
 </p>
 
